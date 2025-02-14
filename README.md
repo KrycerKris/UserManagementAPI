@@ -1,6 +1,7 @@
 # Use of Copilot
 1. Copilot's suggestions were used to create the program's file structure.
-
+2. Adding validation to user inputs.
+3. Implementing authentication, error handling and logging middleware.
 
 # User Management API
 
